@@ -1,6 +1,6 @@
-# Three.js TSL
-
 ![Preview](img/preview.jpg)
+
+# Three.js TSL
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
